@@ -1,18 +1,18 @@
-<h1>
-  LARZWE LIFE : BETA
-</h1>
+# 🌏 Présentation de Larzwer Life
 
-**⚠️ | Note :**
-- Ceci est la version beta de LARZWE la version officielle sera publié dans les prochaines semaines, n'hésite pas à rejoindre le serveur discord si vous voulez être notifié des nouveautés, si vous avez un problème ouvrez un ticket.
+**Larzwer Life** est un jeu vidéo immersif qui vous plonge dans un monde ouvert unique où chaque choix a un impact. Explorez, créez et vivez une aventure palpitante ! 🌍
 
-## 🔩 | Setup
-Installer [LIEN](MIEN)
+**- 👨‍💻 Studio/Développeur :**
+AlarMilts/Davalar_off
+**- 🌐 Site Web :**
+https://larzwelife.framer.website/
+**- 📖 Documentation :**
+https://larzwelife-doc.framer.website/
 
-## 📚 | Documentation
-Discord Support [LARZWE LIFE](https://discord.gg/GPSz4FVBrA)
-Site Web [Larzwe-life.framer.website](https://larzwe-life.framer.website/)
-Documentation [Larzwe-Doc.framer.website](https://larzwe-doc.framer.website/)
+**- 📢 Réseaux Sociaux :**
+🔹[Twitter](https://twitter.com/larzwelife)
+🔹[YouTube](https://youtube.com/larzwelifeofficiel🔹[Discord](https://discord.gg/GPSz4FVBrA)
+🔹[Tiktok](https://www.tiktok.com/@larzwelifeofficiel?_t=ZN-8u6Y1iIsFuQ&_r=1)
+🔹[Github](https://github.com/larzwe-life/)
 
- ### ✏️ | Author
-- [Davalar_off](https://github.com/davalar_off)
-- [AlarMilts](https://github.com/alarmilts)
+Copyright (c) 2025 LARZWE LIFE est un projet de Association AlarMilts Tous droits réservés.
